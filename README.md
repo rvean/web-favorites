@@ -65,6 +65,7 @@
 ## CSS
 
 - [animate.css](https://github.com/daneden/animate.css) - CSS动画库
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - 字体图标库
 
 [↑ 返回目录 ↑](#目录)
 
