@@ -40,7 +40,7 @@
 
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML
 - [echarts](https://github.com/apache/incubator-echarts) - ECharts
-- [echarts官网](https://www.echartsjs.com/examples) - ECharts中文官网
+- [echarts官网](https://www.echartsjs.com) - ECharts中文官网
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the canvas tag
 - [f2](https://github.com/antvis/f2) - 移动端chart，支持小程序
 
