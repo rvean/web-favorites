@@ -18,7 +18,7 @@ Object.prototype.toString.call('123') === '[object String]' // true
 
 </details>
 
-<b><details><summary>2. 请用 js 去除字符串空格</summary></b>
+<details><summary><b>2. 请用 js 去除字符串空格</b></summary>
 
 + replace 正则
 
