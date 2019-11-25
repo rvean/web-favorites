@@ -12,8 +12,10 @@
 
 ## 微信小程序
 
-- [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架 微信官方
+- [WePY](https://github.com/Tencent/wepy) - 小程序组件化开发框架 微信官方
 - [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架
+- [Taro](https://github.com/NervJS/taro) - 使用 React 的方式开发小程序的框架，同时支持生成多端应用
+- [uni-app](https://github.com/dcloudio/uni-app) - 使用 Vue 语法开发小程序、H5、App的统一框架
 - [vant-weapp](https://github.com/youzan/vant-weapp) - 有赞轻量、可靠的小程序 UI 组件库
 - [iview-weapp](https://github.com/TalkingData/iview-weapp) - 小程序 UI 组件库
 - [wux-weapp](https://github.com/wux-weapp/wux-weapp) - 小程序 UI 组件库
